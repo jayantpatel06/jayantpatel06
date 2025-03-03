@@ -1,20 +1,8 @@
-## Hi there 👋
+## Hi there 👋 You are checking out Jayant Patel's profile.
 
-<!--
-**odinson06/odinson06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🔭 I’m currently working on a website
 
-🌱 I’m currently learning Web Development and DSA in C
+🌱 I’m currently learning DSA in C and Data Science using Py
 
 💻 Languages & Tools:
 🔹 C | C++ |
@@ -29,11 +17,5 @@ Here are some ideas to get you started:
 
 ☕ Coffee-powered developer
 
-
-📫 How to reach me:
-
-🔗 www.linkedin.com/jayantpatel06
-
-📫 www.instagram.com/_jayantpatel_
 
 📩 Email: patelj7177@gmail.com
