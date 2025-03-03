@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 📊 Interests:
 🔸 Data Science 📊 | Web Dev 🌐 | AI 🤖
 
-⚡ Fun Facts:
-
 🧠 Always curious about how things work
 
 🎮 Love gaming & coding challenges
