@@ -1,6 +1,6 @@
 ## Hey there! 
 
-I build real-world web apps and software, leveraging LLMs and modern AI tools to accelerate the development. My goal is simple: Move from "Idea" to "Deployed MVP" in record time.
+I build real-world web apps and software, leveraging LLMs and modern AI tools to accelerate the development.
 > **Strong Logic + Modern AI = Fast Delivery**
 ---
 
